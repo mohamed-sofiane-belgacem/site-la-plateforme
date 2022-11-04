@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/* header */
+
+nav ul{
+    list-style: none;
+}
+
+.title-big{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(16, 16, 133);
+    font-size: 3rem;
+    float: left;
+    width: 100%;
+    text-align: center;
+
+}
+
+.header-link{
+    float: left;
+    width: 17%;
+    text-align: center;
+
+}
+a{
+    color: rgb(255, 255, 255);
+}
+.nav-header{
+    border: 5px solid rgb(57, 127, 157);
+    background-color: rgb(57, 127, 157);
+}
+
+.modif-liste{
+    padding: 6%;
+    font-size: 2rem;
+    width: 100%;
+}
+
+.text-body{
+    text-align: left;
+    font-size: 150%;
+    margin-top: 5%;    
+}
+
+.boutton-inscreption{
+    text-align: left;
+
+}
+
+
+
+.image-aceuil{
+    /* margin-left: 68%; */
+}
+
